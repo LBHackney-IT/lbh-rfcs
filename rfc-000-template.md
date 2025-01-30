@@ -1,7 +1,3 @@
----
-status: proposed
----
-
 # My RFC Title
 
 ## Summary
