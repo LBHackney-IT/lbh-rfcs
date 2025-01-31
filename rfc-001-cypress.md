@@ -1,7 +1,3 @@
----
-status: proposed
----
-
 # Don't use Cypress Cloud
 
 ## Summary
